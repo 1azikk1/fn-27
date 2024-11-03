@@ -28,3 +28,12 @@ def add_num(num1, num2):
 
 
 print(add_num(10, 4))
+
+
+def multiply_num(num1, num2):
+    if num1 > 0 and num2 > 0:
+        return num1 / num2
+
+
+print(multiply_num(12, 2))
+
