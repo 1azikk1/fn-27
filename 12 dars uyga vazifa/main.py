@@ -1,1 +1,4 @@
-# 12 - dars uyga vazifa uchun
+print('hello world')
+
+
+print("Salom dunyo")
