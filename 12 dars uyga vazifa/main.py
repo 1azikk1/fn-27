@@ -16,3 +16,5 @@ def id_generator(length=4):
 
 
 print(id_generator())
+
+name = input("Ismingizni kiriting: ")
