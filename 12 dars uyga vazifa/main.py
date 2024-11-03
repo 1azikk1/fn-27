@@ -18,3 +18,13 @@ def id_generator(length=4):
 print(id_generator())
 
 name = input("Ismingizni kiriting: ")
+
+
+def add_num(num1, num2):
+    if num1 > 0 and num2 > 0:
+        return num1 + num2
+    else:
+        return 'Musbat son kiriting!'
+
+
+print(add_num(10, 4))
